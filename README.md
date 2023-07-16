@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Dzenan Dzevlan. I am based in Bosnia and Herzegovina, the city of Mostar. I am mostly interested in AWS and DevOps. Also I am [AWS Community Hero][aws-hero] and a founder of [AWS User Group Bosnia](https://www.meetup.com/AWS-User-Group-Bosnia/).
-
+My name is Dzenan Dzevlan. I am based in Bosnia and Herzegovina, the city of Mostar. I am mostly interested in AWS and DevOps. Also I am [AWS Community Hero][aws-hero] and a founder of [AWS User Group Bosnia](https://www.awsbosnia.com/).
 
 ### Connect with me 
 
