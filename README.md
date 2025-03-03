@@ -1,4 +1,4 @@
-![Cover image](img/cover.png)
+![Cover image](img/github-cover.png)
 
 I'm Dzenan Dzevlan, calling Mostar, Bosnia and Herzegovina my home. I specialize in AWS, DevOps, SRE, and Cloud Infrastructure. In addition to being recognized as an [AWS Community Hero][aws-hero], I also founded [AWS User Group Bosnia](https://www.awsbosnia.com/).
 
