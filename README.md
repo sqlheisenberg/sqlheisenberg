@@ -1,6 +1,6 @@
 ![Cover image](img/github_cover.png)
 
-Dzenan runs AWS and DevOps consulting company [allOps Solutions](allops.co) specializing in high-impact **AWS projects**, including large-scale migrations, government initiatives, and HIPAA-compliant infrastructure implementations.
+**Dzenan** runs AWS and DevOps consulting company [allOps Solutions](allops.co) specializing in high-impact **AWS projects**, including large-scale migrations, government initiatives, and HIPAA-compliant infrastructure implementations.
 
 **With over a decade** of AWS experience dating back to 2011, Dzenan has managed AWS environments globally, including as a Production **Engineering team lead at Yahoo Inc.**, where he supported the **Yahoo Ad Tech** platform’s AWS infrastructure, serving millions of users worldwide.
 
